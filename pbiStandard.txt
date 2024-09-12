@@ -1,0 +1,8 @@
+pbi
+4 - type palletIMG/palletAlphaIMG/rgbIMG/argbIMG
+2 - compression no/rle/other/other
+2 - pallet_size 4/8/16/32
+32 - width
+32 - height
+32 * pallet_size - pallet
+2(4)/3(8)/4(16)/5(32) * width * height - pixels complession(no)
